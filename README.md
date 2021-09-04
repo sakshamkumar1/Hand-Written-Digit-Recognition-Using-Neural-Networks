@@ -1,1 +1,1 @@
-# Projects-2
+# Hand-Written Digit Recognition Using Neural Networks
